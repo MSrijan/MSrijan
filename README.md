@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi there, Srijan here</h2>
+<a href = "https://www.maharjansrijan.com.np" target='blank'>My site</a>
 
 ###
 
